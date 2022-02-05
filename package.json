@@ -27,9 +27,11 @@
     "analyze": "source-map-explorer 'dist/assets/*.js'"
   },
   "dependencies": {
+    "@chakra-ui/icons": "^1.1.5",
     "@chakra-ui/react": "^1.8.1",
     "@emotion/react": "^11",
     "@emotion/styled": "^11",
+    "clsx": "^1.1.1",
     "faker": "5",
     "framer-motion": "^5",
     "match-sorter": "^6.3.1",
